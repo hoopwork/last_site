@@ -4,7 +4,7 @@ layout: home
 ---
 
 Моя картинка
-![bunker](/assets/images/bun2.png)
+![bunker](./assets/images/bun2.png)
 
 
 
