@@ -1,10 +1,13 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Докуметация отдела РТС
+description: Все знания, что мы получаем, стараемся интегрировать сюда в виде инструкций
 theme: just-the-docs
 
 url: https://melodicteam.ru
 
-# zzz
+
+#===========================================
+
+logo: "/assets/images/bun.png"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
