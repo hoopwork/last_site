@@ -1,0 +1,28 @@
+@import "./color_schemes/light";
+
+
+//$link-color: $grey-dk-200;
+
+
+//
+
+
+.side-bar {
+
+    width: 6000px;
+    border: 1px solid black;
+    min-width: 6000px;
+
+   
+}
+
+.main-content {
+    margin-left: 120px; /* Adjust here to match the new sidebar width */
+}
+
+
+.site-header {
+    border: 1px solid black;
+}
+
+$nav-width: 25.5rem !default;
