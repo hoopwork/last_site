@@ -22,5 +22,23 @@ aux_links:
   Контакты и сервис: /docs/contacts_and_service.html
 
 
+# === ОФОРМЛЕНИЕ ЗАМЕЧАНИЙ ===
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Замечание
+    color: blue
+  highlight:
+    title: Желтизна
+    color: yellow
+
+  important2:
+    title: ПРОСТОВАЖНО
+    color: blue
+
+
+# === ЦВЕТОВАЯ СХЕМА ===
 
 color_scheme: hoop_scheme
