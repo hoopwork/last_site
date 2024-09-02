@@ -7,12 +7,19 @@ url: https://melodicteam.ru
 
 #===========================================
 
-logo: "/assets/images/bun.png"
+logo: "/assets/images/3l_robotics_logo_black.png"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 
+
+
+# === ССЫЛКИ СВЕРХУ ===
+aux_links:
+  Главная: /index.html
+  3Logic Group: https://3logic.ru
+  Контакты и сервис: /docs/contacts_and_service.html
 
 
 
