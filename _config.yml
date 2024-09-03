@@ -25,7 +25,7 @@ aux_links:
 # === ОФОРМЛЕНИЕ ЗАМЕЧАНИЙ ===
 callouts:
   warning:
-    title: Warning
+    title: Внимание
     color: red
   note:
     title: Замечание
